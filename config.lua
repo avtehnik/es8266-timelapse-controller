@@ -1,1 +1,1 @@
-config = {	exposure = 33, pause = 12, steps = 5}
+config = {	exposure = 33, pause = 12, steps = 5, action='none'}
